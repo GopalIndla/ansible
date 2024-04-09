@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Shell-Scripting"
+		},
+		{
+			"name": "ansible",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
